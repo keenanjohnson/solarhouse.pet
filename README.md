@@ -1,37 +1,17 @@
 ## Meet House Pet
 
-You can use the [editor on GitHub](https://github.com/keenanjohnson/solarhouse.pet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A solar-powered house that teaches about energy usage through a playful, multi-sensory experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Problem Statement
+The National Academy of Engineering lists personalized learning as one of its "Grand Engineering Challenges." Additionally, there is a lack of effective and engaging tools to educate adults and children on energy sources and usage.
 
-### Markdown
+It's not clear that it takes a large amount of effort to generate the electricity required to run our devices, so few people consider the choices they make when going about their daily lives or passing regulatory laws that govern millions. For instance, are people aware that a AA battery requires much more energy to be created than it actually consumes? Or how much power can be generated from a small solar panel?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How might we take that knowledge, turn it into an actionable practice to help ourselves and the planet, and practice it in a tangible and effective way?
 
-```markdown
-Syntax highlighted code block
+### Project Goals
+The goal of the House Pet is to create a solar-powered house that teaches about energy usage through a playful, multi-sensory experience. It’s a “Tamagotchi," but with a physical body, intuitive voice interface, and important lessons to teach.
 
-# Header 1
-## Header 2
-### Header 3
+The House Pet contains a solar panel roof, onboard battery monitoring system, tank treads to drive around, an extensible Lego body, voice-controlled interface and screen (via an Alexa Show), and a variety of other sensors. A pet is the the perfect, intuitive way to teach lessons about energy and solar power. Everyone is used to interacting with their own pets with their voices, making the voice interaction automatically intuitive.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keenanjohnson/solarhouse.pet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+House Pet owners will need to tend to their pets. Taking the pet outside when it needs to charge and checking in on it regularly to ensure that it is healthy. House Pet should be a fun way for everyone to conceptualize how much work it actually is to maintain energy for all of our devices and activities in our daily lives.
